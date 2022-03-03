@@ -41,7 +41,7 @@ Let’s set these properties globally to all the physics bodies in the scene.
   
   
   -------------------
-  Do you remember there’s always some invisible shape surrounding the physics body to detect if they are colliding with any other physics body?
+ there’s always some invisible shape surrounding the physics body to detect if they are colliding with any other physics body?
 In A-Frame also we see those shapes and modify them.
 To the colliding shape we can use the “debug” property and set it to true
   --------------------
